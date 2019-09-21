@@ -1,5 +1,3 @@
-#![doc(include = "README.md")]
-
 extern crate phf;
 
 #[cfg(test)]
